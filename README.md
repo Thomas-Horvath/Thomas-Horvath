@@ -1,7 +1,7 @@
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thomas-Horvath&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /></p>
 <h1 align="center" >Hi 👋, I'm Thomas!</h1>
-<h3 align="center"> 🌱 I’m webdeveloper and database specialist.</h3>
+<h3 align="center"> 🌱 I’m web developer and database specialist.</h3>
 
 
 <h3 align="center">Contact me:</h3>
