@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Thomas Horváth</h1>
-<h3 align="center">💻 Full-Stack Web Developer | React & Next.js Specialist</h3>
+<h1 align="center">👋 Hi, I'm Thomas Horváth</h1>
+<h3 align="center">💻 Full-Stack Web Developer | React • Next.js • Node.js • Prisma</h3>
 
 <p align="center">
-  Passionate about building modern, scalable web applications with a strong focus on <strong>React, Next.js, Node.js, Prisma</strong> and robust database design.<br/>
-  I love turning complex problems into simple, elegant solutions — from frontend UI to backend architecture.
+  🚀 Passionate about building <strong>modern, scalable, and user-focused web applications</strong> from scratch – frontend to backend.  
+  I specialize in creating <strong>clean architectures</strong>, <strong>optimized database models</strong>, and <strong>seamless user experiences</strong> with the latest web technologies.
 </p>
+
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I’m focused on **full-stack development** with React, Next.js and Node.js  
-- 🧠 I enjoy working with **Prisma, MongoDB, MySQL, SQLite** and building efficient data models  
-- 🌱 Currently learning **Docker, DevOps, and advanced backend architectures**  
-- 🛠️ I’m passionate about writing **clean, maintainable, and scalable code**  
-- 🌍 I aim to create applications that make a real difference and offer seamless user experiences
+- 🌐 I’m a **full-stack developer** who loves turning complex ideas into simple, scalable solutions.  
+- 🔭 I focus on building **React / Next.js** applications with **Node.js**, **Prisma**, and modern database technologies.  
+- 📊 I’m deeply interested in **data-driven apps**, **API design**, and **clean backend architectures**.  
+- 🧰 My approach combines **frontend design thinking** with **backend engineering discipline**.  
+- 🧠 I’m constantly learning and experimenting with new tools to improve my skills.
 
 ---
 
@@ -38,22 +39,46 @@
 
 ### 📂 Featured Projects
 
-🚧 *(Links coming soon — here you’ll showcase your top 2-3 projects)*  
-Each project card could include a short description, tech stack, and a GitHub link:
-
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Wordy!**](https://wordy.thomasapi.eu) | English-Hungarian flashcard web app for vocabulary practice | Next.js, Prisma, SQLite |
 | [**Integrative Medicine**](#) | Desktop app for managing minerals, chakras, and symptoms | Electron, React - vite, SQLite |
 | [**WebP Coverter**](#) | Desktop applicaton that allows you to convert any images to the optimized WebP format. | React - vite, Tailwind , Electron |
-| [**Kóstolj Bele!**](#) | Recipe application with user auth, ratings, and favorites | Next.js, Prisma, SQLite |
+| [**Kóstolj Bele!**](https://kostoljbele.thomasapi.eu) | Recipe application with user auth, ratings, and favorites | Next.js, Prisma, SQLite |
 
 ---
 
-### 📊 GitHub Stats
+## 📚 Currently Learning
+
+- 🐳 **Next.js Full-Stack Development** – building complex, production-ready applications with modern architecture  
+- 🐳 **Docker & DevOps** – containerization, deployment workflows, and scalable server environments  
+- 🔐 **Authentication & Security** – implementing secure login systems, JWT, cookie-based sessions, and best practices
+
+---
+
+## 🎯 Next Goals
+
+- 🧪 **Contribute to open-source** projects in the React and Next.js ecosystem  
+- 🔍 Deepen my understanding of **frontend and backend architectures**, focusing on clean, scalable, and maintainable code  
+- 🚀 Plan and build a more **complex full-stack SaaS-style project** using Next.js, Prisma, and modern database solutions
+
+---
+
+## 📜 Certificates & Education
+
+- 🎓 **System Administrator & Database Specialist** – completed professional training at *Training360*  
+- 🖥️ **Frontend Development Program** – studying web development for over 1.5 years at *Programozás Karrier*  
+- 📚 **Self-Taught Full-Stack Developer** – continuously improving my skills in Next.js, Prisma, database design, and full-stack application development
+
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thomas-Horvath&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=Thomas-Horvath&theme=tokyonight&hide_border=true"  height="180px" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Horvath&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
@@ -68,4 +93,4 @@ Each project card could include a short description, tech stack, and a GitHub li
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+⭐️ *“Great software is built by those who never stop learning.”*
