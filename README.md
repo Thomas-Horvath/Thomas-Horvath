@@ -70,17 +70,17 @@
 - 🖥️ **Frontend Development Program** – studying web development for over 1.5 years at *Programozás Karrier*  
 - 📚 **Self-Taught Full-Stack Developer** – continuously improving my skills in Next.js, Prisma, database design, and full-stack application development
 
-
+<!--
 ## 📊 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thomas-Horvath&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
   <img src="https://streak-stats.demolab.com?user=Thomas-Horvath&theme=tokyonight&hide_border=true"  height="180px" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Horvath&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
+</p> -->
 
 ---
 
