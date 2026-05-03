@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center" desplay="flex">
+<div desplay="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" display="inline-block" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" display="inline-block" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" display="inline-block" alt="Next.js" />
