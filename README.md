@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center" desplay="flex">
+<div align="center" desplay="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" display="inline-block" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" display="inline-block" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" display="inline-block" alt="Next.js" />
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" display="inline-block" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" display="inline-block" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" display="inline-block" alt="Git" />
-</p>
+</div>
 
 ---
 
